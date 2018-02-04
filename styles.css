@@ -1,0 +1,17 @@
+body {
+	background-color: grey;
+}
+
+.container{
+
+}
+
+.title{
+	font-size: 72px;
+	color: green;
+}
+
+.subtitle{
+	font-size: 48px;
+	color: blue;
+}
